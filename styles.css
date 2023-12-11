@@ -1,15 +1,15 @@
 body {
-background-color: #AFFF16; font-family: Arial, Helvetica, sans-serif; display: flex;
+background-color: #E4E4DE; font-family: Arial, Helvetica, sans-serif; display: flex;
 flex-wrap: wrap;
 } h1 {
-color: maroon; text-align: center; width: 100%; display: block;
+color: #C4C5B; text-align: center; width: 100%; display: block;
 } h1:hover {
 color: hotpink; text-align: center; width: 100%; display: block;
 } a {
 text-decoration: none;
-color: black; }
+color: #1B1B1B; }
 .assign {
-background-color: grey;
+background-color: #595f39;
 margin: 10px;
 padding: 10px;
 border-radius: 20px;
